@@ -1,0 +1,19 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# IDEs
+.idea/
+.vscode/
+
+# Relatórios
+reports/allure-results/
+reports/allure-report/
+
+# Sistema
+.DS_Store
+					
