@@ -6,13 +6,9 @@ Projeto de automação de testes Web utilizando **Python + Selenium + Pytest**, 
 ---
 ## 👥 Equipe do Projeto
 
-Este projeto foi desenvolvido pela seguinte equipe de QA Automation:
+Este projeto foi desenvolvido pela QA Automation:
 
 Karla Chaves
-
-Samira Jeovana
-
-Raissa Menezes
 
 ---
 
